@@ -119,7 +119,6 @@ Figures are written to `results/figures/`.
 
 ```
 csc502-minhash-lsh/
-├── CLAUDE.md                        # Project spec and architecture
 ├── README.md                        # This file
 ├── requirements.txt                 # Python dependencies
 ├── src/
