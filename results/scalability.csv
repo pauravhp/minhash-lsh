@@ -1,0 +1,7 @@
+num_docs,fraction,method,runtime_seconds,num_pairs_found
+1884,0.1,lsh,6.25,1225
+1884,0.1,brute_force,57.28,1229
+4711,0.25,lsh,12.47,10458
+4711,0.25,brute_force,375.24,10478
+9423,0.5,lsh,33.11,35861
+18846,1.0,lsh,55.15,142136
